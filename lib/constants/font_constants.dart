@@ -1,0 +1,9 @@
+String gilroybold="GilroyBold";
+String gilroysemibold="GilroySemiBold";
+String gilroymediumd="GilroyMedium";
+String sfprosemibold="Sfprosemibold";
+String sfpromedium="Sfpromedium";
+String sfproroundedmedium="Sfproroundedmedium";
+String sfproroundedsemibold="Sfproroundedsemibold";
+String sfproroundedregular="Sfproroundedregular";
+String sfproroundedlight="Sfproroundedlight";

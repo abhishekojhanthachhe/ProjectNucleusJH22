@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594846347233",
+    "project_id": "arche-523b4",
+    "storage_bucket": "arche-523b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594846347233:android:78ce2c1a552acc88d26ca0",
+        "android_client_info": {
+          "package_name": "com.jacobshack.archee.arche"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594846347233-ufo1pf4emjmfej0arltgl366j6n8mpd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDH9hUlNGB7uRsVMS6NJ4Mdc8xf_W4Naw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594846347233-ufo1pf4emjmfej0arltgl366j6n8mpd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
